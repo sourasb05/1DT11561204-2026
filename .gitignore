@@ -1,0 +1,10 @@
+# OS / editor
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+.vscode/
+
+# Large raw datasets (download them from the links in README.md)
+*.zip
+*.mat
+*.csv
