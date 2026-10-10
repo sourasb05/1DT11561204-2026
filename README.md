@@ -130,6 +130,13 @@ Predicting continuous values and engineering better inputs: linear regression wi
 | 📓 Tutorial | [Feature Selection](Feature%20Selection%20and%20regression/Tutorials/Feature_selection.ipynb) | How selecting features affects classification and regression performance | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sourasb05/1DT11561204-2026/blob/main/Feature%20Selection%20and%20regression/Tutorials/Feature_selection.ipynb) |
 | 📓 Tutorial | [Principal Component Analysis](Feature%20Selection%20and%20regression/Tutorials/PCA.ipynb) | Explained variance and how PCA affects model accuracy | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sourasb05/1DT11561204-2026/blob/main/Feature%20Selection%20and%20regression/Tutorials/PCA.ipynb) |
 
+#### 📌 Recommended material for understanding regression
+
+| Type | Resource | Description |
+|---|---|---|
+| 📄 Lecture notes | [Modern Regression, Lecture 13 (C. Shalizi, CMU)](https://www.stat.cmu.edu/~cshalizi/mreg/15/lectures/13/lecture-13.pdf) | Lecture notes from Carnegie Mellon's *Modern Regression* course that explain the theory behind linear regression in depth |
+| 🎥 Video playlist | [Regression video series (YouTube)](https://www.youtube.com/playlist?list=PLblh5JKOoLUIzaEkCLIUxQFjPIlapw8nU) | Short visual videos that build intuition for regression step by step |
+
 ---
 
 ## 🔋 Battery Datasets & Project
