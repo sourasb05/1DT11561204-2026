@@ -136,6 +136,7 @@ Predicting continuous values and engineering better inputs: linear regression wi
 |---|---|---|
 | 📄 Lecture notes | [Modern Regression, Lecture 13 (C. Shalizi, CMU)](https://www.stat.cmu.edu/~cshalizi/mreg/15/lectures/13/lecture-13.pdf) | Lecture notes from Carnegie Mellon's *Modern Regression* course that explain the theory behind linear regression in depth |
 | 🎥 Video playlist | [Regression video series (YouTube)](https://www.youtube.com/playlist?list=PLblh5JKOoLUIzaEkCLIUxQFjPIlapw8nU) | Short visual videos that build intuition for regression step by step |
+| 💻 Code example | [Battery State-of-Charge Estimation (GitHub)](https://github.com/sautee/battery-state-of-charge-estimation) | An open-source project that treats battery SOC estimation as a regression problem, a useful reference for the course project |
 
 ---
 
